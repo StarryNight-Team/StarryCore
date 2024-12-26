@@ -1,0 +1,21 @@
+# Blocks
+tile.metal_casing.void_metal.name=虚空金属机械外壳
+tile.metal_casing.thaumium.name=神秘机械外壳
+tile.metal_casing.extreme.name=极限机械外壳
+
+# Items
+metaitem.dragon_cells.name=龙细胞
+metaitem.debris.stellar.name=恒星碎片
+metaitem.container.star.name=恒星容器
+metaitem.circuit.high_energy_flow.name=高能量流电路
+
+## Hydrogen
+metaitem.hydrogen.solid.name=固态氢
+metaitem.hydrogen.dense.name=致密氢
+metaitem.hydrogen.hyper_dense.name=超致密氢
+metaitem.hydrogen.artificial_sun.name=人造太阳
+
+## Panels
+metaitem.panel.emitting.name=太阳能光辐射吸收板 (WIP)
+metaitem.panel.advanced.name=高级太阳能光辐射吸收板 (WIP)
+metaitem.panel.ultimate.name=终极太阳能光辐射吸收板 (WIP)

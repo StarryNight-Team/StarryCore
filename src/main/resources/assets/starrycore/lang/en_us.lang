@@ -1,0 +1,21 @@
+# Blocks
+tile.metal_casing.void_metal.name=Void Metal Casing
+tile.metal_casing.thaumium.name=Thaumium Casing
+tile.metal_casing.extreme.name=Extreme Casing
+
+# Items
+metaitem.dragon_cells.name=Dragon Cells
+metaitem.debris.stellar.name=Stellar Debris
+metaitem.container.star.name=Star Container
+metaitem.circuit.high_energy_flow.name=High Energy Flow Circuit
+
+## Hydrogen
+metaitem.hydrogen.solid.name=Solid Hydrogen
+metaitem.hydrogen.dense.name=Dense Hydrogen
+metaitem.hydrogen.hyper_dense.name=Hyper Dense Hydrogen
+metaitem.hydrogen.artificial_sun.name=Artificial Sun
+
+## Panels
+metaitem.panel.emitting.name=Light Emitting Panel (WIP)
+metaitem.panel.advanced.name=Advanced Light Emitting Panel (WIP)
+metaitem.panel.ultimate.name=Ultimate Light Emitting Panel (WIP)

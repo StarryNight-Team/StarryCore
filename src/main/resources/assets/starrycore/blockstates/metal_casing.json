@@ -1,0 +1,25 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "variant": {
+      "void_metal": {
+        "model": "minecraft:cube_all",
+        "textures": {
+          "all": "gregtech:blocks/metal_casing/void_metal"
+        }
+      },
+      "thaumium": {
+        "model": "minecraft:cube_all",
+        "textures": {
+          "all": "gregtech:blocks/metal_casing/thaumium"
+        }
+      },
+      "extreme": {
+        "model": "minecraft:cube_all",
+        "textures": {
+          "all": "gregtech:blocks/metal_casing/extreme"
+        }
+      }
+    }
+  }
+}

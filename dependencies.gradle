@@ -28,4 +28,11 @@ repositories {
 
 dependencies {
 
+    /* -------------------------------- Hard Deps -------------------------------- */
+
+    implementation rfg.deobf('gregtech:gregtech:2.8.10-beta')
+    implementation rfg.deobf('gregicality:GregicalityMultiblocks:1.2.11')
+
+    implementation rfg.deobf("curse.maven:astral-sorcery-241721:3044416")
+
 }

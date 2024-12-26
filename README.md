@@ -1,4 +1,3 @@
-# Templater
-> The neo-phase lightweight Mod Dev Template for 1.12.2
+# StarryCore
 
-Re-write by TemplateDevEnv and YemplateDevEnv.
+A modpack core mod for [StarryNight Pray 3](https://github.com/StarryNight-Team/StarryNight_Pray-3).
